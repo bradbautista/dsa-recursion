@@ -184,8 +184,6 @@ console.log(calculateFactorial(5))
 
 // For the above maze, a possible exit path can be RRDDLLDDRRRRRR
 
-// No, and this is mean. Not only is this my first encounter with recursion, it's my first time dealing with multidimensional arrays in JavaScript.
-
 // 9. Find ALL the ways out of the maze
 
 // Use the above maze and modify your solution so it finds All the possible exit paths through the Maze. To find all possible exit paths through the maze, think about how many places you can move at each turn. Possibly up, down, left or right?
@@ -195,9 +193,6 @@ console.log(calculateFactorial(5))
 // Path to the exit: RRDDLLDDRRRRRR
 // Path to the exit: RRDDRRUURRDDDD
 // Path to the exit: RRDDRRRRDD
-
-// Again, this is a lot to ask of someone who has no experience with recursion without giving any sort of hints. I don't even know where to get started.
-
 
 // 10. Anagrams
 
